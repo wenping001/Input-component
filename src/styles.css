@@ -1,0 +1,18 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  font-family: "Noto Sans JP", sans-serif;
+  padding: 2rem;
+}
+
+.m-2 {
+  margin: 1rem 0;
+}
